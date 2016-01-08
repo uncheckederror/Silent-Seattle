@@ -4,6 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "park",
         "Placename": "Seattle Chinese Garden",
         "Notes": "An imagined geography of peonies, pools, and pavilions",
         "link": "www.seattlechinesegarden.org/"
@@ -13,6 +16,110 @@
         "coordinates": [
           -122.35276222229004,
           47.55312816069254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "lighthouse",
+        "name": "Discovery Park Lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43578732013702,
+          47.661962388535706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0000ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00ffff",
+        "fill-opacity": 0.25,
+        "name": "Renton Muni Airport",
+        "notes": "The greatest airport known to Boeing."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.21912384033203,
+              47.50030048787674
+            ],
+            [
+              -122.21706390380861,
+              47.48507694563513
+            ],
+            [
+              -122.21118450164795,
+              47.485047944200815
+            ],
+            [
+              -122.21603393554688,
+              47.50056142441174
+            ],
+            [
+              -122.21912384033203,
+              47.50030048787674
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Shiro's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34737634658812,
+          47.6147685442075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "religious-jewish",
+        "Name": "Aquatic Synagouge",
+        "Description": "Seattle's One and only amphibious Temple! (No shellfish)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33529567718504,
+          47.64028016519829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Seattle Central Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33268857002258,
+          47.60665131144697
         ]
       }
     }
