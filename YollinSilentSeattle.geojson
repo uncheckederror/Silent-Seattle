@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Old Ballard",
+        "Notes": "I used to work at a small start-up on Ballard Avenue. Old Ballard is a great place to work
+        and visit. The street is line with coffee shops, restaurants with good beer and boutique
+        shops. At lunch I would sometimes walk down to the Chittenden Locks, which in my opinion, is
+        a must see in Seattle."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.666918,-122.38398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Madrona Beach",
+        "Notes": "For a more scenic commute, sometimes my dad and I will choose to take the 'lake route'.
+        From Montlake Boulevard, we turn left onto Lake Washington Boulevard and make our way to 90
+        east. Along the way, this route offers stunning views of Lake Washington, an on a clear day,
+        Mt. Rainier."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.608668,-122.282912]
+      }
+    }
+  ]
+}
